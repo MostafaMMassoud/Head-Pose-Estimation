@@ -31,5 +31,5 @@ All the AWS services needed to be created from the AWS website and configure lam
 The trained models in this project include Support Vector Machines (SVMs), XGBoost Regressor, Ridge, and Lasso . The project also includes the script that was used to download and read the data, extract 2d-landmark points. also the training of the model and predicting on different images from internet.
 
 ### Results
-<img src="Out_kevin-hart-stare.gif" width="150" height="150"/>
-<img src="Out_slap.gif" width="150" height="150"/>
+<img src="Out_kevin-hart-stare.gif" width="350" height="350"/>
+<img src="Out_slap.gif" width="350" height="350"/>
